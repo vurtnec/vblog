@@ -1,6 +1,7 @@
 ---
 title: Https小结
 date: 2016-12-24
+categories: Programing
 ---
 
 最近由于复习了下Http相关的知识，所以写了一些关于Http的文章，算是自己的读书笔记。上次写的是Http方法定义的文章，这次聊聊Https。
