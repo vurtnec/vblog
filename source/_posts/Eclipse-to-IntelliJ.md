@@ -2,6 +2,7 @@
 title: Eclipse to IntelliJ IDEA
 date: 2016-10-31
 categories: programing
+keywords: [eclipse,快捷键,IntelliJ,IDEA,IDEA快捷键,getter,setter]
 ---
 
 身边越来越多的人开始使用IntelliJ IDEA，都在向我推荐用了之后工作效率提高了一大截。抱着半信半疑的心态，我也尝试使用这个新的IDE，经过一周的使用，个人体会就是好比玩dota的从dota键位改成了QWER，用智能ABC的换成了搜狗输入法。当然不要认为我是在夸这个IDE，因为到目前为止我还没发现有什么特别的理由让我一定要从Eclipse切换到IDEA。
