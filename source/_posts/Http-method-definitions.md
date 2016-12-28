@@ -1,7 +1,7 @@
 ---
 title: HTTP-方法定义
 date: 2016-12-15
-categories: Programing
+categories: programing
 tags: [http]
 ---
 

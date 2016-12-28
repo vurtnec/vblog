@@ -1,7 +1,7 @@
 ---
 title: Https小结
 date: 2016-12-24
-categories: Programing
+categories: programing
 tags: [http]
 ---
 

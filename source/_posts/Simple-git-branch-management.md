@@ -1,7 +1,7 @@
 ---
 title: 简单Git branch管理策略
 date: 2015-05-30
-categories: Programing
+categories: programing
 ---
 
 最近新项目开始，突然被要求使用git，诚然git是个好东西，但从svn转下git还是出现各种不适应，在这统一做下总结吧。

@@ -1,7 +1,7 @@
 ---
 title: 读后感：驱动力
 date: 2016-10-22
-categories: Thoughts
+categories: thoughts
 ---
 
 上周末闲来无事，一口气把驱动力(DRiVE)看完了，书中的观点其实不错，但是太啰嗦。

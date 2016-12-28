@@ -1,7 +1,7 @@
 ---
 title: 读后感：Soft Skills
 date: 2016-10-16
-categories: Thoughts
+categories: thoughts
 ---
 
 一直想认真写我的博客，可是每次都不知从何说起。最近终于发现可以把读过的每一本书都分享出来，一方面帮助自己回忆书中的要点，同时也是分享给身边的人，让大家对每本书都个大致的了解。
