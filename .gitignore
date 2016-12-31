@@ -6,3 +6,5 @@ node_modules/
 public/
 .deploy*/
 .project
+deploy.sh
+ROOT.tar
