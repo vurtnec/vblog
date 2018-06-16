@@ -7,7 +7,7 @@ keywords: [GIT,Branch,Branch管理]
 
 最近新项目开始，突然被要求使用git，诚然git是个好东西，但从svn转下git还是出现各种不适应，在这统一做下总结吧。
 git的优点就不介绍了，先说说我对teamwork中git branch管理策略的理解吧。 
-![Git branch](http://img.blog.csdn.net/20161211114325293?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdnVydG5lYw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+[![git flow.jpg](https://i.loli.net/2018/06/11/5b1e15cfca5f4.jpg)](https://i.loli.net/2018/06/11/5b1e15cfca5f4.jpg)
 
 ### master branch
 首先，代码库应该有一个、且仅有一个主分支。所有提供给用户使用的正式版本，都在这个主分支上发布。Git主分支的名字，默认叫做Master。它是自动建立的，版本库初始化以后，默认就是在主分支在进行开发。

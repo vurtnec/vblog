@@ -23,7 +23,7 @@ keywords: [HTTP,方法定义,get和post的区别,幂等,GET,POST,PUT,DELETE,REST
 ---
 ##### **什么是HTTP Entity？**
 我们知道一个Http请求包含了报文首部和主体部分，中间以空行隔开。而通常报文主体等于实体主体，只有当传输中进行编码操作时，实体主体的内容发生变化，才导致它和报文主体产生差异。
-![Http Header](http://img.blog.csdn.net/20161211163819657?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdnVydG5lYw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+[![Http header.png](https://i.loli.net/2018/06/11/5b1e152fc64b3.png)](https://i.loli.net/2018/06/11/5b1e152fc64b3.png)
 ##### **GET Method**
 GET属于安全方法，代表从指定的URI以实体（Entity）形式获取信息。也就是说，如果请求的资源说文本，则保持原样返回，如果说一段程序，则返回执行后的输出结果，而不是返回源程序。
 ##### **POST Method**

@@ -12,18 +12,18 @@ keywords: [HTTP,HTTPS,什么是HTTPS,TLS/SSL,HTTPS劫持]
 
 Https全称Http Secure，它并非是一种新协议。只是Http通信接口部分用SSL和TSL协议代替。简言之，Https就是身披SSL协议外壳的Http。
 
-![Http&Https](http://img.blog.csdn.net/20161224163733133?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdnVydG5lYw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+[![Http&Https.png](https://i.loli.net/2018/06/11/5b1e15cfd332f.png)](https://i.loli.net/2018/06/11/5b1e15cfd332f.png)
 
 **TLS/SSL**
 
 TLS/SSL是一个公钥／私钥的结构，它是一个非对称的结构，每个服务器端和客户端都有自己的公私钥。公钥用来加密数据，而私钥用来解密收到的数据。公钥和私钥是配对的，（其实可以理解成是一把锁和对应的钥钥），所以在建立安全传输之前，客户端和服务器端会互换公钥（锁头），客户端发送的数据要通过服务器公钥加密，服务器端发送数据时则需要客户端公钥加密。
 
-![TSL/SSL](http://img.blog.csdn.net/20161224175718032?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdnVydG5lYw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+[![TSL&SSL.png](https://i.loli.net/2018/06/11/5b1e15cfd4f0f.png)](https://i.loli.net/2018/06/11/5b1e15cfd4f0f.png)
 
 这里还引入了一个第三方：CA（Certificate Authority，数字证书认证中心）。客户端在发起安全连接前会去获取服务器端的证书，并通过CA的帧数验证服务器端证书的真伪。除了验证真伪外，通常还含有对服务器名称，IP地址等进行验证的过程。
 简单点说就是在公钥互换的时候，客户端需要验证服务器给过来的公钥是否真的是我们想要的服务器发过来的，而不是其他中间人伪造的。
 
-![CA](http://img.blog.csdn.net/20161224171233971?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdnVydG5lYw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+[![CA.png](https://i.loli.net/2018/06/11/5b1e15d008093.png)](https://i.loli.net/2018/06/11/5b1e15d008093.png)
 
 #### Https的安全通信机制
 

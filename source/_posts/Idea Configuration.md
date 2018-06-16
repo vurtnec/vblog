@@ -1,5 +1,5 @@
 ---
-title: idea基本配置
+title: Idea 基本配置
 date: 2018-06-07
 categories: programing
 tags: [IDE]
