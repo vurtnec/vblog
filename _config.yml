@@ -32,6 +32,8 @@ flowchart:
   snap: https://bramp.github.io/js-sequence-diagrams/js/snap.svg-min.js
   underscore: https://bramp.github.io/js-sequence-diagrams/js/underscore-min.js
   sequence: https://bramp.github.io/js-sequence-diagrams/js/sequence-diagram-min.js
+  raphael: http://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.0/raphael-min.js
+  flowchart: http://flowchart.js.org/flowchart-latest.js
   # css: # optional, the url for css, such as hand drawn theme
   options:
     theme: simple

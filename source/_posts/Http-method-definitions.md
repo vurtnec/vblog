@@ -2,7 +2,7 @@
 title: HTTP-方法定义
 date: 2016-12-15
 categories: programing
-tags: [http]
+tags: [http,Favorites]
 keywords: [HTTP,方法定义,get和post的区别,幂等,GET,POST,PUT,DELETE,REST]
 ---
 

@@ -2,7 +2,7 @@
 title: Index Improvement
 date: 2017-12-21
 categories: programing
-tags: [Endeca,Search Engine]
+tags: [Endeca,搜索引擎]
 keywords: [endeca,Index,Search Engine,搜索引擎,索引]
 ---
 

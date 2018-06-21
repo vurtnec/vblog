@@ -1,7 +1,7 @@
 ---
 title: 读后感：淘宝技术这十年
 date: 2016-11-30
-categories: thoughts
+categories: other
 keywords: [淘宝技术这十年,淘宝,读后感]
 ---
 

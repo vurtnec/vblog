@@ -2,7 +2,7 @@
 title: Sublime中配置Markdown
 date: 2017-11-07
 categories: programing
-tags: [Tips]
+tags: [Tips,IDE]
 keywords: [idea,IDE,tools,tips,小技巧,Markdown,Sublime]
 ---
 

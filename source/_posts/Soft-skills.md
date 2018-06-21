@@ -1,7 +1,7 @@
 ---
 title: 读后感：Soft Skills
 date: 2016-10-16
-categories: thoughts
+categories: other
 keywords: [软技能,程序员自我营销,程序员,营销]
 ---
 

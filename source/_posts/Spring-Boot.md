@@ -2,7 +2,7 @@
 title: Spring Boot
 date: 2018-04-21
 categories: programing
-tags: [Spring,Spring Boot]
+tags: [Spring,Spring Boot,Favorites]
 keywords: [Spring,Spring Boot,Hello World,Maven,Gradle]
 ---
 

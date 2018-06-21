@@ -2,7 +2,7 @@
 title: IOC和AOP
 date: 2016-06-15
 categories: programing
-tags: [Spring]
+tags: [Spring,Favorites]
 keywords: [Spring,Ioc,AOP,控制反转,切面,面向切面编程]
 ---
 

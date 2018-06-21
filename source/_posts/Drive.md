@@ -1,7 +1,7 @@
 ---
 title: 读后感：驱动力
 date: 2016-10-22
-categories: thoughts
+categories: other
 keywords: [DRIVE,驱动力,驱动力3.0，平克的TED]
 ---
 
